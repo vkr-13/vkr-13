@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...not python!
 - 🌱 I’m currently learning ...python...
 - 💞️ I’m looking to collaborate on ...not python!
-- 📫 How to reach me ...idk, a fetch request over https?
+- 📫 How to reach me ...idk, a fetch request?
 
 <!---
 vkr-13/vkr-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
